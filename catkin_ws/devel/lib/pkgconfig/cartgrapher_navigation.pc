@@ -1,0 +1,8 @@
+prefix=/home/sun/catkin_ws/devel/.private/cartgrapher_navigation
+
+Name: cartgrapher_navigation
+Description: Description of cartgrapher_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lcartgrapher_navigation
+Requires: actionlib geometry_msgs move_base rospy roscpp tf std_msgs
