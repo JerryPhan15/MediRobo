@@ -1,0 +1,4 @@
+Symlinking /home/sun/catkin_ws/devel/lib/python3/dist-packages/ros_tcp_endpoint/__init__.py
+Symlinking /home/sun/catkin_ws/devel/lib/pkgconfig/ros_tcp_endpoint.pc
+Symlinking /home/sun/catkin_ws/devel/share/ros_tcp_endpoint/cmake/ros_tcp_endpointConfig-version.cmake
+Symlinking /home/sun/catkin_ws/devel/share/ros_tcp_endpoint/cmake/ros_tcp_endpointConfig.cmake
